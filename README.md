@@ -15,7 +15,7 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 * Per the retirement titles table, **Senior Engineer** and **Senior Staff** the titles with by far the highest retirement rate (a combined total of **50k** vs the remaining titles with a combined total of **20k**).
 
-![retirement titles table](Data\retirement_titles.png)
+![retirement titles table](SQL_Employee_Analysis/Data/retirement_titles.png)
 
 * The departments with the highest level of retirement-eligible employees are **Development** (9,281) and **Production** (8,174). These stand out among the other departments with an average of roughly 2,000 employees. 
 
